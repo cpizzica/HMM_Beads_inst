@@ -8,8 +8,8 @@ var TaskType = ''
 var Block_Index = 0
 
 // Session order - uncomment the order you want
-//var All_Type = ['High_HMMActual','Low_HMMActual','Low_MMActual','High_MMActual']
-var All_Type = ['Low_HMMActual','High_HMMActual','Low_MMActual','High_MMActual']
+var All_Type = ['High_HMMActual','Low_HMMActual','Low_MMActual','High_MMActual']
+//var All_Type = ['Low_HMMActual','High_HMMActual','Low_MMActual','High_MMActual']
 var Block_Type = All_Type[Block_Index]
 
 var pavlovia_init = {
